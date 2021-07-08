@@ -32,5 +32,5 @@
 
 ## Credits
 
-- [huukhai](https://github.com/huukhai/hackintosh-rog-b550i)
+- [amervelic](https://github.com/amervelic/efi-b250m-k)
 - [dortania](https://github.com/orgs/dortania/people)
